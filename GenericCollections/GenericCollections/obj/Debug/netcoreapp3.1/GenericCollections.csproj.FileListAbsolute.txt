@@ -1,0 +1,14 @@
+C:\Users\SADIGOV\Desktop\P126\Generic,Collections\GenericCollections\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.exe
+C:\Users\SADIGOV\Desktop\P126\Generic,Collections\GenericCollections\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.deps.json
+C:\Users\SADIGOV\Desktop\P126\Generic,Collections\GenericCollections\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.runtimeconfig.json
+C:\Users\SADIGOV\Desktop\P126\Generic,Collections\GenericCollections\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.runtimeconfig.dev.json
+C:\Users\SADIGOV\Desktop\P126\Generic,Collections\GenericCollections\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.dll
+C:\Users\SADIGOV\Desktop\P126\Generic,Collections\GenericCollections\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.pdb
+C:\Users\SADIGOV\Desktop\P126\Generic,Collections\GenericCollections\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.csproj.AssemblyReference.cache
+C:\Users\SADIGOV\Desktop\P126\Generic,Collections\GenericCollections\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SADIGOV\Desktop\P126\Generic,Collections\GenericCollections\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.AssemblyInfoInputs.cache
+C:\Users\SADIGOV\Desktop\P126\Generic,Collections\GenericCollections\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.AssemblyInfo.cs
+C:\Users\SADIGOV\Desktop\P126\Generic,Collections\GenericCollections\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\SADIGOV\Desktop\P126\Generic,Collections\GenericCollections\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.dll
+C:\Users\SADIGOV\Desktop\P126\Generic,Collections\GenericCollections\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.pdb
+C:\Users\SADIGOV\Desktop\P126\Generic,Collections\GenericCollections\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.genruntimeconfig.cache
